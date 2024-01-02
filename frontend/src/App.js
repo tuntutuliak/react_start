@@ -13,7 +13,7 @@ const App = () => {
     console.log(word);
   };
 
-  console.log(word)
+  console.log(process.env.REACT_APP_UNSPLASH_KEY);
 
   return (
 
