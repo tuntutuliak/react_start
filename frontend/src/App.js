@@ -13,6 +13,8 @@ const App = () => {
     console.log(word);
   };
 
+  console.log(word)
+
   return (
 
     <div className="App">
